@@ -1,2 +1,1 @@
-# bat
-#####fuck you jxw#####
+version-1.0
